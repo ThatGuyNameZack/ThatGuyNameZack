@@ -40,11 +40,6 @@
 </details>
 
 <details>
-  <summary>Wakatime Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThatGuyNameZack&theme=transparent" />
-</details>
-  
-<details>
   <summary>Most Used Languages</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyNameZack&layout=pie&theme=transparent" />
 </details>
